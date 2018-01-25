@@ -1,0 +1,23 @@
+{
+  "name": "gbmahili-chrome-extension",
+  "version": "1.0.0",
+  "description": "This is an extension containing my main social media links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbmahili/GBMahili-Chrome-Extension.git"
+  },
+  "keywords": [
+    "Chrome",
+    "Extension"
+  ],
+  "author": "Baraka Georges Mahili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbmahili/GBMahili-Chrome-Extension/issues"
+  },
+  "homepage": "https://github.com/gbmahili/GBMahili-Chrome-Extension#readme"
+}
