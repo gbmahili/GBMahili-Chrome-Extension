@@ -9,4 +9,4 @@ This is a Google Chrome Extension that does that, expect, only for me.
 But anyone can customize it and use their links instead.
 
 ## LANGUAGES USED:
-HTML, CSS, JS
+HTML, CSS, JavaScript
